@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="artist">Artist: My Slante</string>
+    <string name="title">Glen Station, Victory</string>
+    <string name="source">Victoria Museum</string>
+</resources>
